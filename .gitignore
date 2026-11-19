@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycashe__/
+node_modules/
+dist/
